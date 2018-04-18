@@ -1,0 +1,72 @@
+{
+  "name": "coverage-viewer",
+  "description": "Create a static website for exploring your project’s coverage statistics",
+  "version": "0.0.1",
+  "author": {
+    "name": "Forrest Desjardins",
+    "email": "desjardinsfg@gmail.com",
+    "url": "github.com/fdesjardins"
+  },
+  "bin": "cli.js",
+  "dependencies": {
+    "array.prototype.flatten": "^1.2.1",
+    "color-interpolate": "^1.0.2",
+    "mkdirp": "^0.5.1",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "mocha": "^5.1.0",
+    "nyc": "^11.6.0",
+    "standard": "^11.0.1"
+  },
+  "engines": {
+    "node": ">=7"
+  },
+  "eslintConfig": {
+    "extends": [
+      "standard"
+    ],
+    "rules": {
+      "object-curly-spacing": [
+        2,
+        "always"
+      ],
+      "array-bracket-spacing": [
+        2,
+        "always"
+      ],
+      "func-style": [
+        2,
+        "expression"
+      ],
+      "prefer-arrow-callback": [
+        2,
+        {
+          "allowNamedFunctions": false
+        }
+      ]
+    }
+  },
+  "keywords": [
+    "coverage",
+    "html",
+    "json",
+    "report",
+    "server",
+    "viewer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ]
+  },
+  "repository": "fdesjardins/nm",
+  "scripts": {
+    "test": "standard *.js && nyc ./node_modules/.bin/mocha --opts mocha.opts test.js"
+  }
+}

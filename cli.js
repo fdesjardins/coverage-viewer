@@ -8,7 +8,6 @@ const coverageViewer = require('./')
 const cli = yargs
   .usage('\nUsage: coverage-viewer <coverageFile> [options]')
   .example('coverage-viewer coverage.json -s ./src -o ./coverage')
-  // .nargs(1)
   .describe('s', "The root of your project's source code directory")
   .describe('o', 'Where coverage-viewer should write output')
   .demandOption([ 's' ])
@@ -17,7 +16,7 @@ const cli = yargs
   .version('v', pkg.version)
   .alias('v', 'version')
 
-const resolve = dir => path.join(__dirname, dir)
+const resolve = dir => path.resolve(path.join('.', dir))
 
 const options = {
   coverageFile: resolve(cli.argv._[0]),

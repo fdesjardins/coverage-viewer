@@ -15,6 +15,8 @@ npm i -g coverage-viewer
 
 ## Usage
 
+Currently only tested with C# coverlet JSON output.
+
 CLI Usage:
 
 ```

@@ -65,7 +65,7 @@
       "text"
     ]
   },
-  "repository": "fdesjardins/nm",
+  "repository": "fdesjardins/coverage-viewer",
   "scripts": {
     "test": "standard *.js && nyc ./node_modules/.bin/mocha --opts mocha.opts test.js"
   }

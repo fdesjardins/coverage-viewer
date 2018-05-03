@@ -1,7 +1,7 @@
 {
   "name": "coverage-viewer",
   "description": "Create a static website for exploring your project’s coverage statistics",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name": "Forrest Desjardins",
     "email": "desjardinsfg@gmail.com",

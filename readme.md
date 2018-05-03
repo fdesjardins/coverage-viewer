@@ -1,5 +1,6 @@
 # Coverage Viewer
 
+[![npm version][npm-version-image]][npm-version-url]
 [![Build Status][travis-image]][travis-url]
 [![Coverage][coveralls-image]][coveralls-url]
 
@@ -45,6 +46,8 @@ httpserver
 
 MIT © [Forrest Desjardins](https://github.com/fdesjardins)
 
+[npm-version-image]: https://img.shields.io/npm/v/coverage-viewer.svg
+[npm-version-url]: https://www.npmjs.com/package/coverage-viewer
 [travis-url]: https://travis-ci.org/fdesjardins/coverage-viewer
 [travis-image]: https://img.shields.io/travis/fdesjardins/coverage-viewer.svg?style=flat
 [coveralls-url]: https://coveralls.io/r/fdesjardins/coverage-viewer

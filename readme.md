@@ -5,7 +5,8 @@
 
 Turn your code coverage output into a website for exploring your project's coverage statistics more easily:
 
-![](assets/screenshot.png)
+![](assets/all-files.png)
+![](assets/file.png)
 
 ## Installation
 

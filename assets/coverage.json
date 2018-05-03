@@ -1,0 +1,3582 @@
+{
+ "/home/forrest2/Workspace/github/tonerdo/coverlet/test/coverlet.core.tests/bin/Debug/netcoreapp2.0/coverlet.core.dll": {
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Coverage.cs": {
+   "Coverlet.Core.Coverage": {
+    "System.Void Coverlet.Core.Coverage::.ctor(System.String,System.String,System.Collections.Generic.IEnumerable`1<System.String>)": {
+     "18": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "20": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "21": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "22": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "23": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "24": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Void Coverlet.Core.Coverage::PrepareModules()": {
+     "27": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "28": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "29": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "30": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "31": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "32": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "33": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "34": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "35": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "36": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "37": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "39": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "40": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    },
+    "Coverlet.Core.CoverageResult Coverlet.Core.Coverage::GetCoverageResult()": {
+     "43": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "44": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "46": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "47": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "48": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "50": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "51": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "52": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "53": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "54": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "55": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "56": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "57": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "58": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "59": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "60": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "61": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "63": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "64": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "65": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "66": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "67": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "69": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "70": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "71": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "72": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "73": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "74": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "76": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "77": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "78": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "79": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "80": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "81": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "82": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "83": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "85": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "86": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "87": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "89": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "90": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "91": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "92": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "93": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "94": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Coverage::CalculateCoverage()": {
+     "97": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "98": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "99": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "100": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "101": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "102": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "103": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "104": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "106": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "107": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "109": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "110": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "111": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "113": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "114": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "115": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "117": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "118": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "119": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "120": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "122": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "123": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "124": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "125": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "127": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "128": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "129": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/CoverageResult.cs": {
+   "Coverlet.Core.LineInfo": {
+    "System.Int32 Coverlet.Core.LineInfo::get_Hits()": {
+     "10": {
+      "Hits": 151,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Boolean Coverlet.Core.LineInfo::get_IsBranchPoint()": {
+     "11": {
+      "Hits": 95,
+      "IsBranchPoint": false
+     }
+    }
+   },
+   "Coverlet.Core.CoverageResult": {
+    "System.Void Coverlet.Core.CoverageResult::.ctor()": {
+     "25": {
+      "Hits": 18,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/CoverageSummary.cs": {
+   "Coverlet.Core.CoverageSummary": {
+    "System.Double Coverlet.Core.CoverageSummary::CalculateLineCoverage(Coverlet.Core.Lines)": {
+     "10": {
+      "Hits": 23,
+      "IsBranchPoint": false
+     },
+     "11": {
+      "Hits": 69,
+      "IsBranchPoint": false
+     },
+     "12": {
+      "Hits": 23,
+      "IsBranchPoint": false
+     },
+     "13": {
+      "Hits": 23,
+      "IsBranchPoint": false
+     },
+     "14": {
+      "Hits": 23,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateLineCoverage(Coverlet.Core.Methods)": {
+     "17": {
+      "Hits": 15,
+      "IsBranchPoint": false
+     },
+     "18": {
+      "Hits": 30,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 75,
+      "IsBranchPoint": true
+     },
+     "20": {
+      "Hits": 15,
+      "IsBranchPoint": false
+     },
+     "22": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     },
+     "23": {
+      "Hits": 15,
+      "IsBranchPoint": false
+     },
+     "24": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateLineCoverage(Coverlet.Core.Classes)": {
+     "27": {
+      "Hits": 10,
+      "IsBranchPoint": false
+     },
+     "28": {
+      "Hits": 20,
+      "IsBranchPoint": false
+     },
+     "29": {
+      "Hits": 50,
+      "IsBranchPoint": true
+     },
+     "30": {
+      "Hits": 10,
+      "IsBranchPoint": false
+     },
+     "32": {
+      "Hits": 10,
+      "IsBranchPoint": true
+     },
+     "33": {
+      "Hits": 10,
+      "IsBranchPoint": false
+     },
+     "34": {
+      "Hits": 10,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateLineCoverage(Coverlet.Core.Documents)": {
+     "37": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 18,
+      "IsBranchPoint": false
+     },
+     "39": {
+      "Hits": 45,
+      "IsBranchPoint": true
+     },
+     "40": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "42": {
+      "Hits": 9,
+      "IsBranchPoint": true
+     },
+     "43": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "44": {
+      "Hits": 9,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateLineCoverage(Coverlet.Core.Modules)": {
+     "47": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 10,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 29,
+      "IsBranchPoint": true
+     },
+     "50": {
+      "Hits": 7,
+      "IsBranchPoint": false
+     },
+     "52": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "53": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "54": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateBranchCoverage(Coverlet.Core.Lines)": {
+     "57": {
+      "Hits": 17,
+      "IsBranchPoint": false
+     },
+     "58": {
+      "Hits": 51,
+      "IsBranchPoint": false
+     },
+     "59": {
+      "Hits": 51,
+      "IsBranchPoint": false
+     },
+     "60": {
+      "Hits": 17,
+      "IsBranchPoint": false
+     },
+     "61": {
+      "Hits": 17,
+      "IsBranchPoint": false
+     },
+     "62": {
+      "Hits": 17,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateBranchCoverage(Coverlet.Core.Methods)": {
+     "65": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "66": {
+      "Hits": 18,
+      "IsBranchPoint": false
+     },
+     "67": {
+      "Hits": 45,
+      "IsBranchPoint": true
+     },
+     "68": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "70": {
+      "Hits": 9,
+      "IsBranchPoint": true
+     },
+     "71": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "72": {
+      "Hits": 9,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateBranchCoverage(Coverlet.Core.Classes)": {
+     "75": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "76": {
+      "Hits": 8,
+      "IsBranchPoint": false
+     },
+     "77": {
+      "Hits": 20,
+      "IsBranchPoint": true
+     },
+     "78": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "80": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     },
+     "81": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "82": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateBranchCoverage(Coverlet.Core.Documents)": {
+     "85": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "86": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "87": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     },
+     "88": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "90": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "91": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "92": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateBranchCoverage(Coverlet.Core.Modules)": {
+     "95": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "96": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "97": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "98": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "100": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "101": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "102": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateMethodCoverage(Coverlet.Core.Lines)": {
+     "105": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "106": {
+      "Hits": 8,
+      "IsBranchPoint": false
+     },
+     "107": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "109": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "110": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateMethodCoverage(Coverlet.Core.Methods)": {
+     "113": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "114": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "115": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     },
+     "116": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "118": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "119": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "120": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateMethodCoverage(Coverlet.Core.Classes)": {
+     "123": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "124": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "125": {
+      "Hits": 10,
+      "IsBranchPoint": true
+     },
+     "126": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "128": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "129": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "130": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateMethodCoverage(Coverlet.Core.Documents)": {
+     "133": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "134": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "135": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "136": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "138": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "139": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "140": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Double Coverlet.Core.CoverageSummary::CalculateMethodCoverage(Coverlet.Core.Modules)": {
+     "143": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "144": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "145": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "146": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "148": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "149": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "150": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/CoverageTracker.cs": {
+   "Coverlet.Core.CoverageTracker": {
+    "System.Void Coverlet.Core.CoverageTracker::CurrentDomain_ProcessExit(System.Object,System.EventArgs)": {
+     "37": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     },
+     "39": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "40": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Helpers/RetryHelper.cs": {
+   "Coverlet.Core.RetryHelper": {
+    "System.Void Coverlet.Core.RetryHelper::Retry(System.Action,System.Func`1<System.TimeSpan>,System.Int32)": {
+     "21": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "22": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "23": {
+      "Hits": 21,
+      "IsBranchPoint": false
+     },
+     "24": {
+      "Hits": 21,
+      "IsBranchPoint": false
+     },
+     "25": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "26": {
+      "Hits": 6,
+      "IsBranchPoint": true
+     },
+     "27": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     }
+    },
+    "T Coverlet.Core.RetryHelper::Do(System.Func`1<T>,System.Func`1<System.TimeSpan>,System.Int32)": {
+     "40": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "41": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "43": {
+      "Hits": 40,
+      "IsBranchPoint": true
+     },
+     "44": {
+      "Hits": 18,
+      "IsBranchPoint": true
+     },
+     "46": {
+      "Hits": 18,
+      "IsBranchPoint": false
+     },
+     "47": {
+      "Hits": 18,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 13,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 13,
+      "IsBranchPoint": false
+     },
+     "50": {
+      "Hits": 13,
+      "IsBranchPoint": false
+     },
+     "51": {
+      "Hits": 18,
+      "IsBranchPoint": true
+     },
+     "53": {
+      "Hits": 15,
+      "IsBranchPoint": false
+     },
+     "54": {
+      "Hits": 15,
+      "IsBranchPoint": false
+     },
+     "55": {
+      "Hits": 15,
+      "IsBranchPoint": false
+     },
+     "56": {
+      "Hits": 15,
+      "IsBranchPoint": false
+     },
+     "57": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     },
+     "58": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "59": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Reporters/CoberturaReporter.cs": {
+   "Coverlet.Core.Reporters.CoberturaReporter": {
+    "System.String Coverlet.Core.Reporters.CoberturaReporter::get_Format()": {
+     "13": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.CoberturaReporter::get_Extension()": {
+     "15": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.CoberturaReporter::Report(Coverlet.Core.CoverageResult)": {
+     "18": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "21": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "23": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "24": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "25": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "26": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "27": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "28": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "30": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "31": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "32": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "34": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "35": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "36": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "37": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "39": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "40": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "41": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "43": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "44": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "45": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "46": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "47": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "50": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "51": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "52": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "53": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "55": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "56": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "58": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "59": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "60": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "61": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "62": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "63": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "64": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "66": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "67": {
+      "Hits": 7,
+      "IsBranchPoint": true
+     },
+     "68": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "69": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "70": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "71": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "72": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "74": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "75": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "78": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "79": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "80": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "81": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "82": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "83": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "84": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "85": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "87": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "88": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "90": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "91": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "92": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "95": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "96": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "97": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "99": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "100": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "101": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "103": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "104": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "105": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "106": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "107": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "109": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "110": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "111": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "113": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "114": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "115": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "116": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "118": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "119": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "120": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "122": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "123": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "125": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "126": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.String Coverlet.Core.Reporters.CoberturaReporter::GetBasePath(Coverlet.Core.Modules)": {
+     "129": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "130": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "131": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "133": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "134": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "135": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "136": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "137": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "139": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "140": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "142": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "143": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "144": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "145": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "146": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "148": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "149": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "151": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "152": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.String Coverlet.Core.Reporters.CoberturaReporter::GetRelativePathFromBase(System.String,System.String)": {
+     "155": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Reporters/JsonReporter.cs": {
+   "Coverlet.Core.Reporters.JsonReporter": {
+    "System.String Coverlet.Core.Reporters.JsonReporter::get_Format()": {
+     "8": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.JsonReporter::get_Extension()": {
+     "10": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.JsonReporter::Report(Coverlet.Core.CoverageResult)": {
+     "13": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "14": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "15": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "16": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "17": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Reporters/LcovReporter.cs": {
+   "Coverlet.Core.Reporters.LcovReporter": {
+    "System.String Coverlet.Core.Reporters.LcovReporter::get_Format()": {
+     "9": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.LcovReporter::get_Extension()": {
+     "11": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.LcovReporter::Report(Coverlet.Core.CoverageResult)": {
+     "14": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "15": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "16": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "17": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "20": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "21": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "22": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "23": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "24": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "25": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "26": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "27": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "28": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "29": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "30": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "32": {
+      "Hits": 7,
+      "IsBranchPoint": true
+     },
+     "33": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "34": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "35": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "37": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "39": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "40": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "41": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "42": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "44": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "45": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "46": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "47": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "50": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "51": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "53": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "54": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "55": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "56": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "57": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "59": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "60": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "62": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "63": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "65": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "66": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "68": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "69": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "70": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "72": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "73": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Reporters/OpenCoverReporter.cs": {
+   "Coverlet.Core.Reporters.OpenCoverReporter": {
+    "System.String Coverlet.Core.Reporters.OpenCoverReporter::get_Format()": {
+     "12": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.OpenCoverReporter::get_Extension()": {
+     "14": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String Coverlet.Core.Reporters.OpenCoverReporter::Report(Coverlet.Core.CoverageResult)": {
+     "17": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "18": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "20": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "21": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "22": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "24": {
+      "Hits": 8,
+      "IsBranchPoint": false
+     },
+     "25": {
+      "Hits": 8,
+      "IsBranchPoint": false
+     },
+     "27": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "29": {
+      "Hits": 12,
+      "IsBranchPoint": true
+     },
+     "30": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "31": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "32": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "34": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "35": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "36": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "39": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "40": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "42": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "43": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "45": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     },
+     "46": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "47": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "50": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "52": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     },
+     "53": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "54": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "55": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "57": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "59": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "60": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "61": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "63": {
+      "Hits": 15,
+      "IsBranchPoint": true
+     },
+     "64": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "65": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "67": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "68": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "69": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "70": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "71": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "72": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "73": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "74": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "76": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "78": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "79": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "81": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "82": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "83": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "84": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "85": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "86": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "87": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "88": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "89": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "90": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "91": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "92": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "93": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "96": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "97": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "98": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "99": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "100": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "101": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "103": {
+      "Hits": 21,
+      "IsBranchPoint": true
+     },
+     "104": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "105": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "106": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "107": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "108": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "109": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "110": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "111": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "112": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "113": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "114": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "115": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "116": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "118": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "119": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "120": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "121": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "122": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "123": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "124": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "125": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "126": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "127": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "128": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "129": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "130": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "131": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "132": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "134": {
+      "Hits": 6,
+      "IsBranchPoint": true
+     },
+     "135": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "136": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "137": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "138": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "139": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "140": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "141": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "142": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "144": {
+      "Hits": 6,
+      "IsBranchPoint": true
+     },
+     "145": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "147": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "148": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "149": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "151": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "152": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "153": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "154": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "155": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "156": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "157": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "158": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "159": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "160": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "161": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "162": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "164": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "165": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "166": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "167": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "168": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "169": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "170": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "171": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "172": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "173": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "175": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "176": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "177": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "179": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "180": {
+      "Hits": 12,
+      "IsBranchPoint": false
+     },
+     "181": {
+      "Hits": 12,
+      "IsBranchPoint": false
+     },
+     "182": {
+      "Hits": 12,
+      "IsBranchPoint": false
+     },
+     "183": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "184": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "185": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "186": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "187": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "188": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "189": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "190": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "192": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "193": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "194": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "195": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "196": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "197": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "198": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "200": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     },
+     "201": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "202": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "203": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "205": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "206": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "207": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "208": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "209": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "210": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "211": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "212": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "213": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "214": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "215": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "216": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "218": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "219": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "220": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "222": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "223": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "225": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "226": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Reporters/ReporterFactory.cs": {
+   "Coverlet.Core.Reporters.ReporterFactory": {
+    "System.Void Coverlet.Core.Reporters.ReporterFactory::.ctor(System.String)": {
+     "10": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "11": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "12": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "13": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "14": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "15": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "16": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "17": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     }
+    },
+    "Coverlet.Core.Reporters.IReporter Coverlet.Core.Reporters.ReporterFactory::CreateReporter()": {
+     "20": {
+      "Hits": 19,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Instrumentation/Instrumenter.cs": {
+   "Coverlet.Core.Instrumentation.Instrumenter": {
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::.ctor(System.String,System.String,System.Collections.Generic.IEnumerable`1<System.String>)": {
+     "24": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "25": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "26": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "27": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "28": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "29": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Boolean Coverlet.Core.Instrumentation.Instrumenter::CanInstrument()": {
+     "31": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "Coverlet.Core.Instrumentation.InstrumenterResult Coverlet.Core.Instrumentation.Instrumenter::Instrument()": {
+     "34": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "35": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "36": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "37": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "40": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "41": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "42": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "43": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "44": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "45": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "47": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "50": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "51": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::InstrumentModule()": {
+     "54": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "55": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "56": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "57": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "58": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "59": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "60": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "61": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "62": {
+      "Hits": 43,
+      "IsBranchPoint": true
+     },
+     "63": {
+      "Hits": 20,
+      "IsBranchPoint": false
+     },
+     "64": {
+      "Hits": 20,
+      "IsBranchPoint": false
+     },
+     "65": {
+      "Hits": 20,
+      "IsBranchPoint": false
+     },
+     "67": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "68": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "69": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     },
+     "70": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::InstrumentType(Mono.Cecil.TypeDefinition)": {
+     "73": {
+      "Hits": 20,
+      "IsBranchPoint": false
+     },
+     "74": {
+      "Hits": 20,
+      "IsBranchPoint": false
+     },
+     "75": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "77": {
+      "Hits": 184,
+      "IsBranchPoint": true
+     },
+     "78": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "79": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "80": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "81": {
+      "Hits": 62,
+      "IsBranchPoint": true
+     },
+     "82": {
+      "Hits": 20,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::InstrumentMethod(Mono.Cecil.MethodDefinition)": {
+     "85": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "86": {
+      "Hits": 105,
+      "IsBranchPoint": false
+     },
+     "87": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "88": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "90": {
+      "Hits": 62,
+      "IsBranchPoint": true
+     },
+     "91": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "92": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "94": {
+      "Hits": 62,
+      "IsBranchPoint": true
+     },
+     "95": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "97": {
+      "Hits": 62,
+      "IsBranchPoint": true
+     },
+     "98": {
+      "Hits": 62,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::InstrumentIL(Mono.Cecil.MethodDefinition)": {
+     "101": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "102": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "104": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "105": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "107": {
+      "Hits": 2892,
+      "IsBranchPoint": true
+     },
+     "108": {
+      "Hits": 1384,
+      "IsBranchPoint": true
+     },
+     "109": {
+      "Hits": 1384,
+      "IsBranchPoint": false
+     },
+     "110": {
+      "Hits": 1384,
+      "IsBranchPoint": false
+     },
+     "111": {
+      "Hits": 1384,
+      "IsBranchPoint": false
+     },
+     "112": {
+      "Hits": 1063,
+      "IsBranchPoint": false
+     },
+     "113": {
+      "Hits": 1063,
+      "IsBranchPoint": false
+     },
+     "114": {
+      "Hits": 1063,
+      "IsBranchPoint": false
+     },
+     "117": {
+      "Hits": 321,
+      "IsBranchPoint": true
+     },
+     "118": {
+      "Hits": 42111,
+      "IsBranchPoint": true
+     },
+     "119": {
+      "Hits": 20574,
+      "IsBranchPoint": false
+     },
+     "121": {
+      "Hits": 1011,
+      "IsBranchPoint": true
+     },
+     "122": {
+      "Hits": 24,
+      "IsBranchPoint": false
+     },
+     "124": {
+      "Hits": 321,
+      "IsBranchPoint": true
+     },
+     "125": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "127": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "128": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "129": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     }
+    },
+    "Mono.Cecil.Cil.Instruction Coverlet.Core.Instrumentation.Instrumenter::AddInstrumentationCode(Mono.Cecil.MethodDefinition,Mono.Cecil.Cil.ILProcessor,Mono.Cecil.Cil.Instruction,Mono.Cecil.Cil.SequencePoint)": {
+     "132": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "133": {
+      "Hits": 2840,
+      "IsBranchPoint": false
+     },
+     "134": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "135": {
+      "Hits": 13,
+      "IsBranchPoint": false
+     },
+     "136": {
+      "Hits": 13,
+      "IsBranchPoint": false
+     },
+     "137": {
+      "Hits": 13,
+      "IsBranchPoint": false
+     },
+     "138": {
+      "Hits": 13,
+      "IsBranchPoint": false
+     },
+     "140": {
+      "Hits": 1334,
+      "IsBranchPoint": true
+     },
+     "141": {
+      "Hits": 346,
+      "IsBranchPoint": true
+     },
+     "142": {
+      "Hits": 8295,
+      "IsBranchPoint": false
+     },
+     "143": {
+      "Hits": 322,
+      "IsBranchPoint": false
+     },
+     "144": {
+      "Hits": 346,
+      "IsBranchPoint": true
+     },
+     "146": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "147": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "149": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "150": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "151": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "153": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "154": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "155": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "157": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "158": {
+      "Hits": 321,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Boolean Coverlet.Core.Instrumentation.Instrumenter::IsBranchTarget(Mono.Cecil.Cil.ILProcessor,Mono.Cecil.Cil.Instruction)": {
+     "161": {
+      "Hits": 321,
+      "IsBranchPoint": false
+     },
+     "162": {
+      "Hits": 39709,
+      "IsBranchPoint": true
+     },
+     "163": {
+      "Hits": 19379,
+      "IsBranchPoint": false
+     },
+     "164": {
+      "Hits": 19379,
+      "IsBranchPoint": false
+     },
+     "165": {
+      "Hits": 183,
+      "IsBranchPoint": false
+     },
+     "166": {
+      "Hits": 183,
+      "IsBranchPoint": false
+     },
+     "167": {
+      "Hits": 12,
+      "IsBranchPoint": false
+     },
+     "168": {
+      "Hits": 171,
+      "IsBranchPoint": true
+     },
+     "170": {
+      "Hits": 19367,
+      "IsBranchPoint": true
+     },
+     "171": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "172": {
+      "Hits": 19367,
+      "IsBranchPoint": true
+     },
+     "174": {
+      "Hits": 309,
+      "IsBranchPoint": true
+     },
+     "175": {
+      "Hits": 321,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::ReplaceInstructionTarget(Mono.Cecil.Cil.Instruction,Mono.Cecil.Cil.Instruction,Mono.Cecil.Cil.Instruction)": {
+     "178": {
+      "Hits": 20574,
+      "IsBranchPoint": false
+     },
+     "179": {
+      "Hits": 20574,
+      "IsBranchPoint": false
+     },
+     "180": {
+      "Hits": 191,
+      "IsBranchPoint": false
+     },
+     "181": {
+      "Hits": 191,
+      "IsBranchPoint": false
+     },
+     "182": {
+      "Hits": 14,
+      "IsBranchPoint": false
+     },
+     "183": {
+      "Hits": 14,
+      "IsBranchPoint": false
+     },
+     "184": {
+      "Hits": 14,
+      "IsBranchPoint": false
+     },
+     "186": {
+      "Hits": 177,
+      "IsBranchPoint": true
+     },
+     "187": {
+      "Hits": 20383,
+      "IsBranchPoint": true
+     },
+     "188": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "189": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "190": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "191": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "192": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "193": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "194": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "195": {
+      "Hits": 20574,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::ReplaceExceptionHandlerBoundary(Mono.Cecil.Cil.ExceptionHandler,Mono.Cecil.Cil.Instruction,Mono.Cecil.Cil.Instruction)": {
+     "198": {
+      "Hits": 24,
+      "IsBranchPoint": false
+     },
+     "199": {
+      "Hits": 24,
+      "IsBranchPoint": false
+     },
+     "200": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "202": {
+      "Hits": 24,
+      "IsBranchPoint": true
+     },
+     "203": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "205": {
+      "Hits": 24,
+      "IsBranchPoint": true
+     },
+     "206": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "208": {
+      "Hits": 24,
+      "IsBranchPoint": true
+     },
+     "209": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "211": {
+      "Hits": 24,
+      "IsBranchPoint": true
+     },
+     "212": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "213": {
+      "Hits": 24,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Boolean Coverlet.Core.Instrumentation.Instrumenter::IsExcludeAttribute(Mono.Cecil.CustomAttribute)": {
+     "216": {
+      "Hits": 35,
+      "IsBranchPoint": false
+     },
+     "217": {
+      "Hits": 35,
+      "IsBranchPoint": false
+     },
+     "218": {
+      "Hits": 35,
+      "IsBranchPoint": true
+     }
+    },
+    "Mono.Cecil.Cil.MethodBody Coverlet.Core.Instrumentation.Instrumenter::GetMethodBody(Mono.Cecil.MethodDefinition)": {
+     "221": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "223": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "224": {
+      "Hits": 62,
+      "IsBranchPoint": false
+     },
+     "226": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "227": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "228": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "230": {
+      "Hits": 62,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Reflection.MethodInfo Coverlet.Core.Instrumentation.Instrumenter::GetMarkExecutedMethod()": {
+     "233": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "234": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "235": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Instrumentation.Instrumenter::.cctor()": {
+     "21": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Instrumentation/InstrumenterResult.cs": {
+   "Coverlet.Core.Instrumentation.Document": {
+    "System.Void Coverlet.Core.Instrumentation.Document::.ctor()": {
+     "16": {
+      "Hits": 28,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Collections.Generic.List`1<Coverlet.Core.Instrumentation.Line> Coverlet.Core.Instrumentation.Document::get_Lines()": {
+     "19": {
+      "Hits": 683,
+      "IsBranchPoint": false
+     }
+    }
+   },
+   "Coverlet.Core.Instrumentation.InstrumenterResult": {
+    "System.Void Coverlet.Core.Instrumentation.InstrumenterResult::.ctor()": {
+     "24": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Collections.Generic.List`1<Coverlet.Core.Instrumentation.Document> Coverlet.Core.Instrumentation.InstrumenterResult::get_Documents()": {
+     "28": {
+      "Hits": 337,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  },
+  "/home/forrest2/Workspace/github/tonerdo/coverlet/src/coverlet.core/Helpers/InstrumentationHelper.cs": {
+   "Coverlet.Core.Helpers.InstrumentationHelper": {
+    "System.String[] Coverlet.Core.Helpers.InstrumentationHelper::GetDependencies(System.String)": {
+     "16": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "17": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "18": {
+      "Hits": 8,
+      "IsBranchPoint": false
+     },
+     "19": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "20": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Boolean Coverlet.Core.Helpers.InstrumentationHelper::HasPdb(System.String)": {
+     "23": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "24": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "25": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "26": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "27": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     },
+     "28": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "29": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "30": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "31": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "32": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "33": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "35": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "37": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "39": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Helpers.InstrumentationHelper::CopyCoverletDependency(System.String)": {
+     "42": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "43": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "44": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "46": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "47": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "51": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "52": {
+      "Hits": 3,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Helpers.InstrumentationHelper::BackupOriginalModule(System.String,System.String)": {
+     "55": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "56": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "57": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "58": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Void Coverlet.Core.Helpers.InstrumentationHelper::RestoreOriginalModule(System.String,System.String)": {
+     "61": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "62": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "66": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "68": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "69": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "70": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "71": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "72": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Collections.Generic.IEnumerable`1<System.String> Coverlet.Core.Helpers.InstrumentationHelper::ReadHitsFile(System.String)": {
+     "75": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "78": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "80": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "81": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Void Coverlet.Core.Helpers.InstrumentationHelper::DeleteHitsFile(System.String)": {
+     "84": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "87": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "89": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "90": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Collections.Generic.IEnumerable`1<System.String> Coverlet.Core.Helpers.InstrumentationHelper::GetExcludedFiles(System.Collections.Generic.IEnumerable`1<System.String>,System.String)": {
+     "94": {
+      "Hits": 7,
+      "IsBranchPoint": false
+     },
+     "96": {
+      "Hits": 7,
+      "IsBranchPoint": false
+     },
+     "98": {
+      "Hits": 10,
+      "IsBranchPoint": false
+     },
+     "100": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     },
+     "101": {
+      "Hits": 22,
+      "IsBranchPoint": true
+     },
+     "102": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "103": {
+      "Hits": 7,
+      "IsBranchPoint": false
+     },
+     "104": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "105": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "106": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "107": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "108": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     },
+     "109": {
+      "Hits": 5,
+      "IsBranchPoint": false
+     },
+     "110": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "111": {
+      "Hits": 3,
+      "IsBranchPoint": false
+     },
+     "112": {
+      "Hits": 5,
+      "IsBranchPoint": true
+     },
+     "114": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     },
+     "115": {
+      "Hits": 24,
+      "IsBranchPoint": true
+     },
+     "116": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "117": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "118": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "119": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "120": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "121": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "122": {
+      "Hits": 9,
+      "IsBranchPoint": false
+     },
+     "123": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "124": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "126": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     },
+     "127": {
+      "Hits": 7,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Boolean Coverlet.Core.Helpers.InstrumentationHelper::IsAssembly(System.String)": {
+     "130": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "132": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "133": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "134": {
+      "Hits": 6,
+      "IsBranchPoint": false
+     },
+     "136": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "137": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "138": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "140": {
+      "Hits": 6,
+      "IsBranchPoint": true
+     }
+    },
+    "System.String Coverlet.Core.Helpers.InstrumentationHelper::GetBackupPath(System.String,System.String)": {
+     "143": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "144": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "145": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "146": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "147": {
+      "Hits": 1,
+      "IsBranchPoint": false
+     },
+     "148": {
+      "Hits": 1,
+      "IsBranchPoint": true
+     }
+    },
+    "System.Func`1<System.TimeSpan> Coverlet.Core.Helpers.InstrumentationHelper::CreateRetryStrategy(System.Int32)": {
+     "151": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "159": {
+      "Hits": 2,
+      "IsBranchPoint": false
+     },
+     "160": {
+      "Hits": 2,
+      "IsBranchPoint": true
+     }
+    }
+   },
+   "Coverlet.Core.Helpers.InstrumentationHelper/<>c__DisplayClass10_0": {
+    "System.TimeSpan Coverlet.Core.Helpers.InstrumentationHelper/<>c__DisplayClass10_0::<CreateRetryStrategy>g__retryStrategy|0()": {
+     "153": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "154": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "155": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "156": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "157": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  }
+ }
+}

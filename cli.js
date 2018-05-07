@@ -30,6 +30,8 @@ const options = {
 coverageViewer.render(options)
 
 if (cli.argv.u) {
+  // should watch for updates to the coverage file, and run the generator again
+  // if any updates occur
   fs.watch(options.coverageFile, (eventType, filename) => {
     if (filename) {
       console.log('Changed: ' + filename)
@@ -37,19 +39,15 @@ if (cli.argv.u) {
     coverageViewer.render(options)
   })
 
+  // start express app
   const app = express()
   app.get('/', (req, res) => {
     res.send(fs.readFileSync(options.outputFolder + '/index.html', 'utf8'))
   })
 
   app.get('*', (req, res) => {
-    var filePath = ''
-    const pathParts = req.url.split('/').slice(1)
-    for (var item in pathParts) {
-      filePath += '/' + pathParts[item]
-    }
-    res.send(fs.readFileSync(options.outputFolder + filePath, 'utf8'))
+    res.send(fs.readFileSync(options.outputFolder + req.url, 'utf8'))
   })
 
-  app.listen(3000, () => console.log('Example app listening on port 3000!'))
+  app.listen(3000, () => console.log('coverage-viewer hosted on port 3000!'))
 }

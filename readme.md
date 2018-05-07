@@ -27,11 +27,18 @@ Usage: coverage-viewer <coverageFile> [options]
 Options:
   -s             The root of your project's source code directory     [required]
   -o             Where coverage-viewer should write output
+  -u             Whether to start the express viewing server           [boolean]
   -v, --version  Show version number                                   [boolean]
   -h, --help     Show help                                             [boolean]
 
 Examples:
   coverage-viewer coverage.json -s ./src -o ./coverage
+```
+
+Using the `-u` flag, you can run an express app to view the output, and automatically re-run the generator if the coverage file changes.
+
+```
+coverage-viewer coverage.json -s ./src -o ./coverage -u
 ```
 
 Once you've generated the output, serve it with your preferred server:

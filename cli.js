@@ -13,6 +13,7 @@ const cli = yargs
   .describe('s', "The root of your project's source code directory")
   .describe('o', 'Where coverage-viewer should write output')
   .describe('u', 'Whether to start the express viewing server')
+  .alias('u', 'up')
   .demandOption([ 's' ])
   .help('help')
   .alias('h', 'help')
@@ -34,7 +35,7 @@ if (cli.argv.u) {
   // if any updates occur
   fs.watch(options.coverageFile, (eventType, filename) => {
     if (filename) {
-      console.log('Changed: ' + filename)
+      console.log(`Changed: ${filename}`)
     }
     coverageViewer.render(options)
   })
@@ -42,11 +43,16 @@ if (cli.argv.u) {
   // start express app
   const app = express()
   app.get('/', (req, res) => {
-    res.send(fs.readFileSync(options.outputFolder + '/index.html', 'utf8'))
+    res.send(fs.readFileSync(path.join(options.outputFolder, 'index.html'), 'utf8'))
+  })
+
+  // catch the request for a favicon
+  app.get('/favicon.ico', (req, res) => {
+    res.status(204)
   })
 
   app.get('*', (req, res) => {
-    res.send(fs.readFileSync(options.outputFolder + req.url, 'utf8'))
+    res.send(fs.readFileSync(path.join(options.outputFolder, req.url), 'utf8'))
   })
 
   app.listen(3000, () => console.log('coverage-viewer hosted on port 3000!'))

@@ -2,6 +2,8 @@
 
 const yargs = require('yargs')
 const path = require('path')
+const fs = require('fs')
+const express = require('express')
 const pkg = require('./package.json')
 const coverageViewer = require('./')
 
@@ -10,6 +12,8 @@ const cli = yargs
   .example('coverage-viewer coverage.json -s ./src -o ./coverage')
   .describe('s', "The root of your project's source code directory")
   .describe('o', 'Where coverage-viewer should write output')
+  .describe('u', 'Whether to start the express viewing server')
+  .alias('u', 'up')
   .demandOption([ 's' ])
   .help('help')
   .alias('h', 'help')
@@ -25,3 +29,31 @@ const options = {
 }
 
 coverageViewer.render(options)
+
+if (cli.argv.u) {
+  // should watch for updates to the coverage file, and run the generator again
+  // if any updates occur
+  fs.watch(options.coverageFile, (eventType, filename) => {
+    if (filename) {
+      console.log(`Changed: ${filename}`)
+    }
+    coverageViewer.render(options)
+  })
+
+  // start express app
+  const app = express()
+  app.get('/', (req, res) => {
+    res.send(fs.readFileSync(path.join(options.outputFolder, 'index.html'), 'utf8'))
+  })
+
+  // catch the request for a favicon
+  app.get('/favicon.ico', (req, res) => {
+    res.status(204)
+  })
+
+  app.get('*', (req, res) => {
+    res.send(fs.readFileSync(path.join(options.outputFolder, req.url), 'utf8'))
+  })
+
+  app.listen(3000, () => console.log('coverage-viewer hosted on port 3000!'))
+}

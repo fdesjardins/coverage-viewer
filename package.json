@@ -15,11 +15,12 @@
     "mkdirp": "^0.5.1",
     "yargs": "^11.0.0"
   },
+  "repository": "fdesjardins/coverage-viewer",
   "devDependencies": {
     "chai": "^4.1.2",
     "coveralls": "^3.0.1",
-    "mocha": "^5.1.1",
-    "nyc": "^11.7.1",
+    "mocha": "^5.2.0",
+    "nyc": "^11.8.0",
     "standard": "^11.0.1"
   },
   "engines": {
@@ -66,7 +67,6 @@
       "text"
     ]
   },
-  "repository": "fdesjardins/coverage-viewer",
   "scripts": {
     "test": "standard *.js && nyc ./node_modules/.bin/mocha --opts mocha.opts test.js"
   }

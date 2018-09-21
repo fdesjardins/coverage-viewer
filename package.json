@@ -13,15 +13,15 @@
     "color-interpolate": "^1.0.2",
     "express": "^4.16.3",
     "mkdirp": "^0.5.1",
-    "yargs": "^12.0.1"
+    "yargs": "^12.0.2"
   },
   "repository": "fdesjardins/coverage-viewer",
   "devDependencies": {
     "chai": "^4.1.2",
     "coveralls": "^3.0.2",
     "mocha": "^5.2.0",
-    "nyc": "^12.0.2",
-    "standard": "^11.0.1"
+    "nyc": "^13.0.1",
+    "standard": "^12.0.1"
   },
   "engines": {
     "node": ">=7"

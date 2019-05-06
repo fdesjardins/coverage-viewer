@@ -10,17 +10,16 @@
   "bin": "cli.js",
   "dependencies": {
     "array.prototype.flatten": "^1.2.1",
-    "color-interpolate": "^1.0.2",
-    "express": "^4.16.3",
+    "color-interpolate": "^1.0.4",
+    "express": "^4.16.4",
     "mkdirp": "^0.5.1",
-    "yargs": "^12.0.2"
+    "yargs": "^13.2.2"
   },
-  "repository": "fdesjardins/coverage-viewer",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "coveralls": "^3.0.2",
-    "mocha": "^5.2.0",
-    "nyc": "^13.0.1",
+    "chai": "^4.2.0",
+    "coveralls": "^3.0.3",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0",
     "standard": "^12.0.1"
   },
   "engines": {
@@ -67,7 +66,8 @@
       "text"
     ]
   },
+  "repository": "fdesjardins/coverage-viewer",
   "scripts": {
-    "test": "standard *.js && nyc ./node_modules/.bin/mocha --opts mocha.opts test.js"
+    "test": "standard *.js && nyc mocha \"./test/**/*-spec.js\""
   }
 }

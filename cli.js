@@ -20,12 +20,10 @@ const cli = yargs
   .version('v', pkg.version)
   .alias('v', 'version')
 
-const resolve = dir => path.resolve(path.join('.', dir))
-
 const options = {
-  coverageFile: resolve(cli.argv._[0]),
-  sourceRoot: resolve(cli.argv.s),
-  outputFolder: resolve(cli.argv.o)
+  coverageFile: path.resolve(cli.argv._[0]),
+  sourceRoot: path.resolve(cli.argv.s),
+  outputFolder: path.resolve(cli.argv.o)
 }
 
 coverageViewer.render(options)
@@ -43,7 +41,9 @@ if (cli.argv.u) {
   // start express app
   const app = express()
   app.get('/', (req, res) => {
-    res.send(fs.readFileSync(path.join(options.outputFolder, 'index.html'), 'utf8'))
+    res.send(
+      fs.readFileSync(path.join(options.outputFolder, 'index.html'), 'utf8')
+    )
   })
 
   // catch the request for a favicon
@@ -55,5 +55,7 @@ if (cli.argv.u) {
     res.send(fs.readFileSync(path.join(options.outputFolder, req.url), 'utf8'))
   })
 
-  app.listen(3000, () => console.log('coverage-viewer hosted on port 3000!'))
+  app.listen(3000, () =>
+    console.log('coverage-viewer listening at http://localhost:3000/')
+  )
 }

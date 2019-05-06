@@ -1,11 +1,13 @@
 /* global describe, it */
 
 const assert = require('chai').assert
-const nm = require('./index')
+const coverageViewer = require('../index')
+
+const fixture = require('./fixtures/coverage.json')
 
 describe('coverage-viewer', () => {
   it('should exist', done => {
-    assert(nm !== undefined)
+    assert(coverageViewer !== undefined)
     done()
   })
 })

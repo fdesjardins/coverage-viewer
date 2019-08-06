@@ -14,7 +14,7 @@ const cli = yargs
   .describe('o', 'Where coverage-viewer should write output')
   .describe('u', 'Whether to start the express viewing server')
   .alias('u', 'up')
-  .demandOption([ 's' ])
+  .demandOption(['s'])
   .help('help')
   .alias('h', 'help')
   .version('v', pkg.version)

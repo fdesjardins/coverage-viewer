@@ -49,7 +49,16 @@ describe('transforms', () => {
     const methods = Object.keys(classObj)
     const method = classObj[methods[1]]
     const lines = Object.keys(method.Lines)
+
     const transformed = transforms.getLines(method)
+
     assert.equal(transformed.length, lines.length)
+
+    transformed.forEach((transformedLine, i) => {
+      const lineNumber = transformedLine.line;
+      const transformedHitCount = transformedLine.stats.find(s => s.name === 'Hits').value;
+      const originalHitCount = method.Lines[lineNumber];
+      assert.equal(transformedHitCount, originalHitCount)
+    });
   })
 })
